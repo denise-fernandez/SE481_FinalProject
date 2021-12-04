@@ -19,7 +19,7 @@ public class hello_worldTestTest {
     public void isGreaterTest() {
         System.out.println("Test");
         Hello_World helloWorld = new Hello_World();
-        assertTrue("Num 1 is greater than Num 2", hello_World.isGreater(4, 3));
+        assertTrue("Num 1 is greater than Num 2", Hello_World.isGreater(4, 3));
     }
 
     @After
