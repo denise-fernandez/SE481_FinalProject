@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe540f10-e278-49e8-a4fa-7176f1b24beb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../hello_world/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hello_world.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hello_worldTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hello_worldTestTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tetris-master/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tetris-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tetris-master/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tetris-master/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tetris-master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tetris-master/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tetris-master/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tetris-master/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tetris-master/Tetris-master.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tetris-master/bin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tetris-master/bin/BoardPanelTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tetris-master/bin/ClockTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tetris-master/bin/TetrisTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tetris-master/src/BoardPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tetris-master/src/Clock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tetris-master/src/SidePanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tetris-master/src/Tetris.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tetris-master/src/TileType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tetris-master/test/BoardPanelTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tetris-master/test/ClockTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tetris-master/test/TetrisTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tetris-master/test/TileTypeTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\owner\IntelliJ IDEA Community Edition 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="21l0yl9iOT8SeBQmPI5jlq4T4ND" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="JUnit.hello_worldTestTest">
+    <configuration name="hello_worldTestTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hello_world2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="hello_worldTestTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hello_worldTestTest.isGreaterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hello_world2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="hello_worldTestTest" />
+      <option name="METHOD_NAME" value="isGreaterTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.hello_worldTestTest" />
+        <item itemvalue="JUnit.hello_worldTestTest.isGreaterTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe540f10-e278-49e8-a4fa-7176f1b24beb" name="Default Changelist" comment="" />
+      <created>1638500624794</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638500624794</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="476" y="157" key="#Project_Structure" timestamp="1638578099326">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="476" y="157" key="#Project_Structure/1920.-134.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1638578099326" />
+    <state x="2396" y="41" key="#Project_Structure/1920.-134.1920.1160/0.0.1920.1040@1920.-134.1920.1160" timestamp="1638500642769" />
+    <state x="435" y="208" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1638578118698">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="435" y="208" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.-134.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1638578118698" />
+    <state x="711" y="300" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1638578066310">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="711" y="300" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.-134.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1638578066310" />
+    <state x="761" y="308" key="FileChooserDialogImpl" timestamp="1638577941741">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="761" y="308" key="FileChooserDialogImpl/1920.-134.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1638577941741" />
+    <state x="499" y="176" key="Maven.ArtifactSearchDialog" timestamp="1638578554356">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="499" y="176" key="Maven.ArtifactSearchDialog/1920.-134.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1638578554356" />
+    <state x="449" y="96" key="SettingsEditor" timestamp="1638579012920">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="449" y="96" key="SettingsEditor/1920.-134.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1638579012920" />
+  </component>
+</project>
