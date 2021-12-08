@@ -19,7 +19,7 @@ public class IsGreaterTest {
 	@Test
 	public void testIsGreater() {
 		Isgreater greater = new Isgreater();
-		assertTrue("Num 1 is greater than Num 2", greater.isGreater(3, 4));
+		assertTrue("Num 1 is greater than Num 2", greater.isGreater(4, 3));
 		//Isgreater greater2 = new Isgreater();
 		//assertFalse("Num 1 is greater than Num 2", greater2.isGreater(3, 4));
 	}
